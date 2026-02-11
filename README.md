@@ -23,9 +23,9 @@ I'm a passionate developer and researcher focused on creating innovative solutio
 
 ## 📊 GitHub Stats
 
-![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunomartinsmv&show_icons=true&theme=radical)
+![GitHub statistics showing Bruno Martins' contribution activity, including total commits, pull requests, and issues](https://github-readme-stats.vercel.app/api?username=brunomartinsmv&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunomartinsmv&layout=compact&theme=radical)](https://github.com/brunomartinsmv)
+[![Most used programming languages in Bruno Martins' repositories](https://github-readme-stats.vercel.app/api/top-langs/?username=brunomartinsmv&layout=compact&theme=radical)](https://github.com/brunomartinsmv)
 
 ## 🔗 Connect with Me
 
