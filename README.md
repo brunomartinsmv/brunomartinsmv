@@ -14,7 +14,7 @@
 - **Scientific Communication**: Presented research at major scientific events (33rd LNLS Annual Users Meeting, UFMT Graduate Exhibition)
 
 ### 🎯 Current Work (Opportunities)
-- **Master's Research**: "Machine Learning Applied to Lightning Fatality Studies in Brazil" - combining atmospheric data with ML to predict and understand lightning-related deaths
+- **Master's Research**: "Machine Learning Applied to Lightning Fatalities Studies in Brazil" - combining atmospheric data with ML to predict and understand lightning-related deaths
 - **Active Areas**: Atmospheric discharges, seasonality patterns, remote sensing, and predictive modeling
 - **Collaboration**: Working with advisors Dr. Daniela Maionchi and Dr. Kleber Naccarato on cutting-edge environmental physics research
 
