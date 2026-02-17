@@ -82,9 +82,3 @@ Mestrando em Física Ambiental pela UFMT, com foco em **Machine Learning aplicad
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brunomendes@fiisca.ufmt.br)
 
 ---
-
-## 📈 GitHub Stats
-
-![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunomartinsmv&show_icons=true&theme=radical)
-
----
