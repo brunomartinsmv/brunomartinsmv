@@ -4,6 +4,10 @@ Physics graduate from UFMT and M.Sc. student in Environmental Physics, working a
 
 [![Lattes CV](https://img.shields.io/badge/Lattes-CV-blue?style=flat-square)](http://lattes.cnpq.br/7835889977638259)
 
+## Purpose
+
+This repository hosts the public GitHub profile README for `brunomartinsmv`. Its role is to present research direction, technical focus, and professional links in a concise format.
+
 ## About
 
 I study how data-driven methods can support the analysis of lightning, climate variability, and environmental risk in Brazil. My current work combines atmospheric datasets, statistical analysis, and machine learning to investigate patterns linked to lightning-related impacts.
@@ -28,7 +32,22 @@ My background is in computational physics, with experience in numerical modeling
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
+## Current Organization
+
+- `README.md`: canonical profile content rendered on GitHub.
+- No additional project directories are currently tracked in this repository state.
+
+## Recent Meaningful Updates
+
+- 2026-03-10: README rewritten to a science-oriented profile narrative (`c92f15a`).
+- 2026-02: profile cleanup and scope adjustments, including removal of stats widgets and refinement of research framing.
+
 ## Connect
 
 - [Lattes CV](http://lattes.cnpq.br/7835889977638259)
 - [GitHub](https://github.com/brunomartinsmv)
+
+## Notes
+
+- This repository is intentionally minimal and documentation-centric.
+- If new artifacts are added (for example, reports, notebooks, or assets), this README should be expanded with navigation and usage guidance for those directories.
