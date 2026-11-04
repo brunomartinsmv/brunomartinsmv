@@ -1,8 +1,8 @@
 # Bruno Martins
 
-Physics graduate from UFMT and M.Sc. student in Environmental Physics, working at the intersection of machine learning, atmospheric science, and climate data analysis in Brazil.
+Physics graduate from the Federal University of Mato Grosso (Brazil) and M.Sc. student in Environmental Physics at the Graduate program in Environmental Physics, working at the intersection of machine learning, atmospheric science, and climate data analysis in Brazil.
 
-[![Lattes CV](https://img.shields.io/badge/Lattes-CV-blue?style=flat-square)](http://lattes.cnpq.br/7835889977638259)
+[![Orcid CV](https://img.shields.io/badge/Orcid-CV-green?style=flat-square)]([http://lattes.cnpq.br/7835889977638259](https://orcid.org/0000-0001-8676-5423))
 
 ## About
 
@@ -27,8 +27,3 @@ My background is in computational physics, with experience in numerical modeling
 ![cfgrib](https://img.shields.io/badge/-cfgrib-0F766E?style=flat-square)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-## Connect
-
-- [Lattes CV](http://lattes.cnpq.br/7835889977638259)
-- [GitHub](https://github.com/brunomartinsmv)
